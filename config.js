@@ -1,4 +1,4 @@
-//═══════[© 2022 Xeon Bot Inc.]════════\\
+//═══════[© 2022 Rei Bot Inc.]════════\\
 
 //~you can re-upload but tag my channel
 //or put my channel link in the description.
@@ -29,9 +29,9 @@ global.pengguna = 'chibbiyo' //username
 global.botnma = 'Rei' //bot name
 global.ownernma = 'sam' //owner name
 global.packname = 'Sam' //sticker package name
-global.author = 'By Reibot' //sticker author name
+global.author = 'By ReiBot' //sticker author name
 global.sessionName = 'session' //session name
-global.prefa = ['#','!','/',''] //prefix
+global.prefa = ['#',''] //prefix
 global.sp = '⭔' //design
 global.mess = {
     success: 'Done ✓',
