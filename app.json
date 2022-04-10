@@ -2,7 +2,7 @@
   "name": "Rei Bot",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/Sibuuu07/CheemsBot-MD",
-  "logo": "https://telegra.ph/file/13a6c45df3e8fc8b27e3e.jpg?format=jpg&name=900x900",
+  "logo": "https://telegra.ph/file/4023b9991b253e0dc06ed.jpg?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
